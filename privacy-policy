@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité - WayShare</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background-color: #fff;
+        }
+
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+        }
+
+        h2 {
+            color: #34495e;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #ecf0f1;
+            font-size: 1.8em;
+        }
+
+        h3 {
+            color: #2c3e50;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        .last-updated {
+            background-color: #f8f9fa;
+            padding: 10px 15px;
+            border-left: 4px solid #3498db;
+            margin-bottom: 30px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+
+        .summary {
+            background-color: #e8f4f8;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 30px 0;
+            border: 1px solid #bde4f4;
+        }
+
+        .toc {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 30px 0;
+            border: 1px solid #dee2e6;
+        }
+
+        .toc ol {
+            margin: 0;
+            padding-left: 20px;
+        }
+
+        .toc li {
+            margin: 8px 0;
+        }
+
+        .toc a {
+            color: #3498db;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .toc a:hover {
+            text-decoration: underline;
+        }
+
+        strong {
+            color: #2c3e50;
+        }
+
+        em {
+            color: #7f8c8d;
+        }
+
+        ul,
+        ol {
+            padding-left: 25px;
+        }
+
+        li {
+            margin: 8px 0;
+        }
+
+        .contact-info {
+            background-color: #f1f2f6;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border: 1px solid #ddd;
+        }
+
+        .section {
+            margin: 40px 0;
+            padding: 20px 0;
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .intro-text {
+            font-size: 1.1em;
+            margin-bottom: 25px;
+            line-height: 1.7;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 15px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            h2 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1>POLITIQUE DE CONFIDENTIALITÉ</h1>
+
+    <div class="last-updated">
+        <strong>Dernière mise à jour : 30 juin 2025</strong>
+    </div>
+
+    <div class="intro-text">
+        Cette Politique de Confidentialité pour <strong>TECHNOLOGIES EVOLTICA inc.</strong> ("nous", "notre", "nos")
+        décrit comment et pourquoi nous pourrions accéder, collecter, stocker, utiliser et/ou partager ("traiter") vos
+        informations personnelles lorsque vous utilisez nos services ("Services"), notamment lorsque vous :
+    </div>
+
+    <ul>
+        <li>Téléchargez et utilisez notre application mobile <strong>WayShare</strong> ou toute autre application qui
+            renvoie à cette Politique de Confidentialité</li>
+        <li>Vous engagez avec nous d'autres manières connexes, y compris toute vente, marketing ou événement</li>
+    </ul>
+
+    <p><strong>Questions ou préoccupations ?</strong> La lecture de cette Politique de Confidentialité vous aidera à
+        comprendre vos droits et choix en matière de confidentialité. Si vous n'êtes pas d'accord avec nos politiques et
+        pratiques, veuillez ne pas utiliser nos Services. Si vous avez encore des questions ou des préoccupations,
+        veuillez nous contacter à <strong>contact@evolticatechnologies.com</strong>.</p>
+
+    <div class="summary">
+        <h2>RÉSUMÉ DES POINTS CLÉS</h2>
+
+        <p><strong>Quelles informations personnelles traitons-nous ?</strong> Lorsque vous visitez, utilisez ou naviguez
+            dans nos Services, nous pouvons traiter des informations personnelles selon la façon dont vous interagissez
+            avec nous et les Services, les choix que vous faites, et les produits et fonctionnalités que vous utilisez.
+        </p>
+
+        <p><strong>Traitons-nous des informations personnelles sensibles ?</strong> Nous ne traitons pas d'informations
+            personnelles sensibles.</p>
+
+        <p><strong>Collectons-nous des informations auprès de tiers ?</strong> Nous ne collectons aucune information
+            auprès de tiers.</p>
+
+        <p><strong>Comment traitons-nous vos informations ?</strong> Nous traitons vos informations pour fournir,
+            améliorer et administrer nos Services, communiquer avec vous, pour la sécurité et la prévention de la
+            fraude, et pour nous conformer à la loi.</p>
+
+        <p><strong>Dans quelles situations et avec quelles parties partageons-nous des informations personnelles
+                ?</strong> Nous pouvons partager des informations dans des situations spécifiques et avec des tiers
+            spécifiques.</p>
+
+        <p><strong>Comment gardons-nous vos informations en sécurité ?</strong> Nous avons des processus et procédures
+            techniques et organisationnels adéquats en place pour protéger vos informations personnelles.</p>
+
+        <p><strong>Quels sont vos droits ?</strong> Selon votre localisation géographique, la loi applicable sur la
+            confidentialité peut signifier que vous avez certains droits concernant vos informations personnelles.</p>
+    </div>
+
+    <div class="toc">
+        <h2>TABLE DES MATIÈRES</h2>
+
+        <ol>
+            <li><a href="#infocollect">QUELLES INFORMATIONS COLLECTONS-NOUS ?</a></li>
+            <li><a href="#infouse">COMMENT TRAITONS-NOUS VOS INFORMATIONS ?</a></li>
+            <li><a href="#legalbases">SUR QUELLES BASES LÉGALES NOUS APPUYONS-NOUS POUR TRAITER VOS INFORMATIONS
+                    PERSONNELLES ?</a></li>
+            <li><a href="#whoshare">QUAND ET AVEC QUI PARTAGEONS-NOUS VOS INFORMATIONS PERSONNELLES ?</a></li>
+            <li><a href="#cookies">UTILISONS-NOUS DES COOKIES ET AUTRES TECHNOLOGIES DE SUIVI ?</a></li>
+            <li><a href="#sociallogins">COMMENT GÉRONS-NOUS VOS CONNEXIONS SOCIALES ?</a></li>
+            <li><a href="#inforetain">COMBIEN DE TEMPS CONSERVONS-NOUS VOS INFORMATIONS ?</a></li>
+            <li><a href="#infosafe">COMMENT GARDONS-NOUS VOS INFORMATIONS EN SÉCURITÉ ?</a></li>
+            <li><a href="#privacyrights">QUELS SONT VOS DROITS EN MATIÈRE DE CONFIDENTIALITÉ ?</a></li>
+            <li><a href="#DNT">CONTRÔLES POUR LES FONCTIONNALITÉS NE-PAS-SUIVRE</a></li>
+            <li><a href="#policyupdates">METTONS-NOUS À JOUR CETTE POLITIQUE ?</a></li>
+            <li><a href="#contact">COMMENT POUVEZ-VOUS NOUS CONTACTER AU SUJET DE CETTE POLITIQUE ?</a></li>
+            <li><a href="#request">COMMENT POUVEZ-VOUS CONSULTER, METTRE À JOUR OU SUPPRIMER LES DONNÉES QUE NOUS
+                    COLLECTONS ?</a></li>
+        </ol>
+    </div>
+
+    <div class="section" id="infocollect">
+        <h2>1. QUELLES INFORMATIONS COLLECTONS-NOUS ?</h2>
+
+        <h3>Informations personnelles que vous nous divulguez</h3>
+
+        <p><strong>En bref :</strong> <em>Nous collectons les informations personnelles que vous nous fournissez.</em>
+        </p>
+
+        <p>Nous collectons les informations personnelles que vous nous fournissez volontairement lorsque vous vous
+            inscrivez aux Services, exprimez un intérêt à obtenir des informations sur nous ou nos produits et Services,
+            participez à des activités sur les Services, ou nous contactez autrement.</p>
+
+        <p><strong>Informations personnelles fournies par vous.</strong> Les informations personnelles que nous
+            collectons peuvent inclure :</p>
+        <ul>
+            <li>Noms</li>
+            <li>Numéros de téléphone</li>
+            <li>Adresses e-mail</li>
+            <li>Noms d'utilisateur</li>
+            <li>Mots de passe</li>
+        </ul>
+
+        <p><strong>Informations sensibles.</strong> Nous ne traitons pas d'informations sensibles.</p>
+
+        <p><strong>Données de connexion aux réseaux sociaux.</strong> Nous pouvons vous offrir la possibilité de vous
+            inscrire chez nous en utilisant les détails de votre compte de réseau social existant, comme votre compte
+            Facebook, X ou autre. Si vous choisissez de vous inscrire de cette façon, nous collecterons certaines
+            informations de profil vous concernant auprès du fournisseur de réseau social.</p>
+
+        <p><strong>Données d'application.</strong> Si vous utilisez notre/nos application(s), nous pouvons également
+            collecter les informations suivantes :</p>
+        <ul>
+            <li><strong>Notifications push.</strong> Nous pouvons demander à vous envoyer des notifications push
+                concernant votre compte ou certaines fonctionnalités de l'application.</li>
+        </ul>
+
+        <h3>API Google</h3>
+        <p>Notre utilisation des informations reçues des API Google se conformera à la Politique de Données Utilisateur
+            des Services API Google, y compris les exigences d'Utilisation Limitée.</p>
+    </div>
+
+    <div class="section" id="infouse">
+        <h2>2. COMMENT TRAITONS-NOUS VOS INFORMATIONS ?</h2>
+
+        <p><strong>En bref :</strong> <em>Nous traitons vos informations pour fournir, améliorer et administrer nos
+                Services, communiquer avec vous, pour la sécurité et la prévention de la fraude, et pour nous conformer
+                à la loi.</em></p>
+
+        <p>Nous traitons vos informations personnelles pour diverses raisons, selon la façon dont vous interagissez avec
+            nos Services, notamment :</p>
+
+        <ul>
+            <li><strong>Pour faciliter la création et l'authentification de compte et gérer autrement les comptes
+                    utilisateur.</strong> Nous pouvons traiter vos informations pour que vous puissiez créer et vous
+                connecter à votre compte, ainsi que maintenir votre compte en état de fonctionnement.</li>
+        </ul>
+    </div>
+
+    <div class="section" id="legalbases">
+        <h2>3. SUR QUELLES BASES LÉGALES NOUS APPUYONS-NOUS POUR TRAITER VOS INFORMATIONS ?</h2>
+
+        <p><strong>En bref :</strong> <em>Nous ne traitons vos informations personnelles que lorsque nous croyons que
+                c'est nécessaire et que nous avons une raison légale valide de le faire sous la loi applicable.</em></p>
+
+        <p>Nous pouvons traiter vos informations si vous nous avez donné une permission spécifique (consentement exprès)
+            d'utiliser vos informations personnelles pour un but spécifique, ou dans des situations où votre permission
+            peut être inférée (consentement implicite).</p>
+
+        <p>Dans certains cas exceptionnels, nous pouvons être légalement autorisés sous la loi applicable à traiter vos
+            informations sans votre consentement, notamment :</p>
+        <ul>
+            <li>Si la collecte est clairement dans l'intérêt d'un individu et que le consentement ne peut être obtenu en
+                temps opportun</li>
+            <li>Pour les enquêtes et la détection et prévention de la fraude</li>
+            <li>Pour les transactions commerciales sous certaines conditions</li>
+            <li>Si cela est contenu dans une déclaration de témoin et que la collecte est nécessaire pour évaluer,
+                traiter ou régler une réclamation d'assurance</li>
+        </ul>
+    </div>
+
+    <div class="section" id="whoshare">
+        <h2>4. QUAND ET AVEC QUI PARTAGEONS-NOUS VOS INFORMATIONS PERSONNELLES ?</h2>
+
+        <p><strong>En bref :</strong> <em>Nous pouvons partager des informations dans des situations spécifiques et avec
+                des tiers spécifiques.</em></p>
+
+        <p>Nous pouvons avoir besoin de partager vos informations personnelles dans les situations suivantes :</p>
+        <ul>
+            <li><strong>Transferts d'entreprise.</strong> Nous pouvons partager ou transférer vos informations en
+                relation avec toute fusion, vente d'actifs d'entreprise, financement ou acquisition de tout ou partie de
+                notre entreprise à une autre société.</li>
+            <li><strong>Quand nous utilisons les API de Google Maps Platform.</strong> Nous pouvons partager vos
+                informations avec certaines API de Google Maps Platform.</li>
+        </ul>
+    </div>
+
+    <div class="section" id="cookies">
+        <h2>5. UTILISONS-NOUS DES COOKIES ET AUTRES TECHNOLOGIES DE SUIVI ?</h2>
+
+        <p><strong>En bref :</strong> <em>Nous pouvons utiliser des cookies et autres technologies de suivi pour
+                collecter et stocker vos informations.</em></p>
+
+        <p>Nous pouvons utiliser des cookies et des technologies de suivi similaires pour rassembler des informations
+            lorsque vous interagissez avec nos Services. Certaines technologies de suivi en ligne nous aident à
+            maintenir la sécurité de nos Services et votre compte, prévenir les plantages, corriger les bogues,
+            sauvegarder vos préférences et aider avec les fonctions de base du site.</p>
+    </div>
+
+    <div class="section" id="sociallogins">
+        <h2>6. COMMENT GÉRONS-NOUS VOS CONNEXIONS SOCIALES ?</h2>
+
+        <p><strong>En bref :</strong> <em>Si vous choisissez de vous inscrire ou de vous connecter à nos Services en
+                utilisant un compte de réseau social, nous pouvons avoir accès à certaines informations vous
+                concernant.</em></p>
+
+        <p>Nos Services vous offrent la possibilité de vous inscrire et de vous connecter en utilisant les détails de
+            votre compte de réseau social tiers. Lorsque vous choisissez de le faire, nous recevrons certaines
+            informations de profil vous concernant de votre fournisseur de réseau social.</p>
+    </div>
+
+    <div class="section" id="inforetain">
+        <h2>7. COMBIEN DE TEMPS CONSERVONS-NOUS VOS INFORMATIONS ?</h2>
+
+        <p><strong>En bref :</strong> <em>Nous conservons vos informations aussi longtemps que nécessaire pour accomplir
+                les buts décrits dans cette Politique de Confidentialité, sauf si autrement requis par la loi.</em></p>
+
+        <p>Nous ne conserverons vos informations personnelles que le temps nécessaire pour les buts énoncés dans cette
+            Politique de Confidentialité, à moins qu'une période de rétention plus longue soit requise ou permise par la
+            loi.</p>
+    </div>
+
+    <div class="section" id="infosafe">
+        <h2>8. COMMENT GARDONS-NOUS VOS INFORMATIONS EN SÉCURITÉ ?</h2>
+
+        <p><strong>En bref :</strong> <em>Nous visons à protéger vos informations personnelles à travers un système de
+                mesures de sécurité organisationnelles et techniques.</em></p>
+
+        <p>Nous avons implémenté des mesures de sécurité techniques et organisationnelles appropriées et raisonnables
+            conçues pour protéger la sécurité de toute information personnelle que nous traitons. Cependant, malgré nos
+            garanties et efforts pour sécuriser vos informations, aucune transmission électronique sur Internet ou
+            technologie de stockage d'informations ne peut être garantie à 100% sécurisée.</p>
+    </div>
+
+    <div class="section" id="privacyrights">
+        <h2>9. QUELS SONT VOS DROITS EN MATIÈRE DE CONFIDENTIALITÉ ?</h2>
+
+        <p><strong>En bref :</strong> <em>Dans certaines régions, comme le Canada, vous avez des droits qui vous
+                permettent un plus grand accès et contrôle sur vos informations personnelles.</em></p>
+
+        <p>Dans certaines régions (comme le Canada), vous avez certains droits sous les lois applicables de protection
+            des données. Ceux-ci peuvent inclure le droit (i) de demander l'accès et obtenir une copie de vos
+            informations personnelles, (ii) de demander la rectification ou l'effacement ; (iii) de restreindre le
+            traitement de vos informations personnelles ; et (iv) le cas échéant, à la portabilité des données.</p>
+
+        <h3>Retrait de votre consentement</h3>
+        <p>Si nous nous appuyons sur votre consentement pour traiter vos informations personnelles, vous avez le droit
+            de retirer votre consentement à tout moment. Vous pouvez retirer votre consentement à tout moment en nous
+            contactant.</p>
+
+        <h3>Informations de compte</h3>
+        <p>Si vous souhaitez à tout moment consulter ou changer les informations dans votre compte ou terminer votre
+            compte, vous pouvez :</p>
+        <ul>
+            <li>Vous connecter aux paramètres de votre compte et mettre à jour votre compte utilisateur.</li>
+        </ul>
+    </div>
+
+    <div class="section" id="DNT">
+        <h2>10. CONTRÔLES POUR LES FONCTIONNALITÉS NE-PAS-SUIVRE</h2>
+
+        <p>La plupart des navigateurs web et certains systèmes d'exploitation mobiles et applications mobiles incluent
+            une fonctionnalité ou paramètre Ne-Pas-Suivre ("DNT") que vous pouvez activer pour signaler votre préférence
+            de confidentialité de ne pas avoir de données sur vos activités de navigation en ligne surveillées et
+            collectées.</p>
+    </div>
+
+    <div class="section" id="policyupdates">
+        <h2>11. METTONS-NOUS À JOUR CETTE POLITIQUE ?</h2>
+
+        <p><strong>En bref :</strong> <em>Oui, nous mettrons à jour cette politique si nécessaire pour rester conforme
+                aux lois pertinentes.</em></p>
+
+        <p>Nous pouvons mettre à jour cette Politique de Confidentialité de temps en temps. La version mise à jour sera
+            indiquée par une date "Révisée" mise à jour en haut de cette Politique de Confidentialité.</p>
+    </div>
+
+    <div class="section" id="contact">
+        <h2>12. COMMENT POUVEZ-VOUS NOUS CONTACTER AU SUJET DE CETTE POLITIQUE ?</h2>
+
+        <p>Si vous avez des questions ou commentaires sur cette politique, vous pouvez nous envoyer un e-mail à
+            <strong>contact@evolticatechnologies.com</strong> ou nous contacter par courrier à :</p>
+
+        <div class="contact-info">
+            <strong>TECHNOLOGIES EVOLTICA inc.</strong><br>
+            __________<br>
+            __________<br>
+            Canada
+        </div>
+    </div>
+
+    <div class="section" id="request">
+        <h2>13. COMMENT POUVEZ-VOUS CONSULTER, METTRE À JOUR OU SUPPRIMER LES DONNÉES QUE NOUS COLLECTONS ?</h2>
+
+        <p>Selon les lois applicables de votre pays, vous pouvez avoir le droit de demander l'accès aux informations
+            personnelles que nous collectons auprès de vous, des détails sur la façon dont nous les avons traitées,
+            corriger les inexactitudes, ou supprimer vos informations personnelles. Pour demander de consulter, mettre à
+            jour ou supprimer vos informations personnelles, veuillez remplir et soumettre une demande d'accès aux
+            données.</p>
+    </div>
+
+</body>
+
+</html>
